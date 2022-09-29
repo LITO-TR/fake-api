@@ -94,43 +94,50 @@
           "id": 1,
           "name": "Rodrigo Perez",
           "email": "Rodrigo@gmail.com",
-          "phoneNumber": "902 952 757"
+          "phoneNumber": "902 952 757",
+          "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
         },
         {
             "id": 2,
             "name": "Juan Sanchez",
             "email": "Juan@gmail.com",
-            "phoneNumber": "915 402 921"
+            "phoneNumber": "915 402 921",
+            "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
         },
         {
             "id": 3,
             "name": "Andrea Rojas",
             "email": "Andre@gmail.com",
-            "phoneNumber": "941 090 741"
+            "phoneNumber": "941 090 741",
+            "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
         },
         {
             "id": 4,
             "name": "Miguel Peña",
             "email": "Miguel@gmail.com",
-            "phoneNumber": "911 612 417"
+            "phoneNumber": "911 612 417",
+            "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
         },
         {
             "id": 5,
             "name": "Fernando Rubio",
             "email": "Fernando@gmail.com",
-            "phoneNumber": "991 517 551"
+            "phoneNumber": "991 517 551",
+            "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
         },
         {
             "id": 6,
             "name": "Elmer Torres",
             "email": "Elmer@gmail.com",
-            "phoneNumber": "915 134 772"
+            "phoneNumber": "915 134 772",
+            "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
         },
         {
             "id": 7,
             "name": "Jean Carrera",
             "email": "Jean@gmail.com",
-            "phoneNumber": "914 881 421"
+            "phoneNumber": "914 881 421",
+            "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
         }
       ]
 }
