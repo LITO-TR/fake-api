@@ -2,7 +2,7 @@
     "category": [
         {   
             "id": 1,
-            "name": "gaseosa"         
+            "name": "Gaseosa"         
         },
         {
             "id":2,
@@ -13,35 +13,35 @@
         {   
             "_id":1,
             "name":"Gaseosa Cocacola",
-            "unitPrice":100,
+            "unitPrice":10,
             "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
             "stock":100,
             "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/512x512/2a31ef4a62b54f8a9faa43384572829f.jpg",
             "campus":1,
             "__v":0,
-            "category":"Gaseosas"
+            "category":1
         },  
         {   
             "_id":2,
             "name":"Inka cola",
-            "unitPrice":60,
+            "unitPrice":10,
             "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
             "stock":90,
             "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/512x512/gaseosa-inca-kola-1-5lt.jpg",
             "campus":1,
             "__v":0,
-            "category":"Gaseosas"
+            "category":1
         },
         {   
             "_id":3,
             "name":"Guarana",
-            "unitPrice":60,
+            "unitPrice":10,
             "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
             "stock":80,
             "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/512x512/364b7e697a754c0fb4bf23c9a287422b.jpg",
             "campus":1,
             "__v":0,
-            "category":"Gaseosas"
+            "category":1
         },
         {   
             "_id":4,
@@ -52,7 +52,7 @@
             "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/whisky-buchanans-18-anos-750ml.jpg",
             "campus":1,
             "__v":0,
-            "category":"Whisky"
+            "category":2
         },
         {   
             "_id":5,
@@ -63,7 +63,7 @@
             "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/8b46af42542a40a1b9fd815570e3844c.jpg",
             "campus":1,
             "__v":0,
-            "category":"Whisky"
+            "category":2
         },
         {   
             "_id":6,
@@ -74,7 +74,7 @@
             "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/jack-daniels-frank-sinatra-whisky-1000ml.jpg",
             "campus":1,
             "__v":0,
-            "category":"Whisky"
+            "category":2
         },
         {   
             "_id":7,
@@ -85,7 +85,7 @@
             "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/whisky-chivas-regal-13-anos-botella-750ml.jpg",
             "campus":1,
             "__v":0,
-            "category":"Whisky"
+            "category":2
         }
 
     ]
