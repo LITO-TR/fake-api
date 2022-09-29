@@ -1,81 +1,91 @@
 {
+    "category": [
+        {   
+            "id": 1,
+            "name": "gaseosa"         
+        },
+        {
+            "id":2,
+            "name":"Whisky"
+        }
+    ],
     "products": [   
         {   
-            "_id":"63329b7ffdea5162925e9149",
-            "name":"Gorra",
-            "unitPrice":60,
-            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
-            "stock":80,
-            "img":"urlurlrulrulrulr",
-            "campus":"6332876c1cde739d4af5e7c2",
+            "_id":1,
+            "name":"Gaseosa Cocacola",
+            "unitPrice":100,
+            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
+            "stock":100,
+            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/512x512/2a31ef4a62b54f8a9faa43384572829f.jpg",
+            "campus":1,
             "__v":0,
-            "category":"6332ae837a0f8585e0784c76"
+            "category":"Gaseosas"
         },  
         {   
-            "_id":"63329b7ffdea5162925e9123",
-            "name":"Gorra",
+            "_id":2,
+            "name":"Inka cola",
             "unitPrice":60,
-            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
-            "stock":80,
+            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
+            "stock":90,
             "img":"urlurlrulrulrulr",
-            "campus":"6332876c1cde739d4af5e7c2",
+            "campus":1,
             "__v":0,
-            "category":"6332ae837a0f8585e0784c76"
+            "category":"Gaseosas"
         },
         {   
-            "_id":"63329b7ffdea5162925e91232",
-            "name":"Gorra",
+            "_id":3,
+            "name":"Guarana",
             "unitPrice":60,
-            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
             "stock":80,
             "img":"urlurlrulrulrulr",
-            "campus":"6332876c1cde739d4af5e7c2",
+            "campus":1,
             "__v":0,
-            "category":"6332ae837a0f8585e0784c76"
+            "category":"Gaseosas"
         },
         {   
-            "_id":"63329b7ffdea5162925e9123",
-            "name":"Gorra",
-            "unitPrice":60,
-            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+            "_id":4,
+            "name":"BUCHANANS",
+            "unitPrice":100,
+            "description":"bbbbLorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd resbbbbbbbbbbbbbbbbbbbbbbbbb",
             "stock":80,
-            "img":"urlurlrulrulrulr",
-            "campus":"6332876c1cde739d4af5e7c2",
+            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/whisky-buchanans-18-anos-750ml.jpg",
+            "campus":1,
             "__v":0,
-            "category":"6332ae837a0f8585e0784c76"
+            "category":"Whisky"
         },
         {   
-            "_id":"63329b7ffdea5162925e9123",
-            "name":"Gorra",
-            "unitPrice":60,
-            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
-            "stock":80,
-            "img":"urlurlrulrulrulr",
-            "campus":"6332876c1cde739d4af5e7c2",
+            "_id":5,
+            "name":"JHONNIE WALKER",
+            "unitPrice":150,
+            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
+            "stock":50,
+            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/8b46af42542a40a1b9fd815570e3844c.jpg",
+            "campus":1,
             "__v":0,
-            "category":"6332ae837a0f8585e0784c76"
+            "category":"Whisky"
         },
         {   
-            "_id":"63329b7ffdea5162925e9123",
-            "name":"Gorra",
-            "unitPrice":60,
-            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
-            "stock":80,
-            "img":"urlurlrulrulrulr",
-            "campus":"6332876c1cde739d4af5e7c2",
+            "_id":6,
+            "name":"JACK DANIELS",
+            "unitPrice":180,
+            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
+            "stock":60,
+            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/jack-daniels-frank-sinatra-whisky-1000ml.jpg",
+            "campus":1,
             "__v":0,
-            "category":"6332ae837a0f8585e0784c76"
+            "category":"Whisky"
         },
         {   
-            "_id":"63329b7ffdea5162925e9123",
-            "name":"Gorra",
-            "unitPrice":60,
-            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
-            "stock":80,
-            "img":"urlurlrulrulrulr",
-            "campus":"6332876c1cde739d4af5e7c2",
+            "_id":7,
+            "name":"CHIVAS",
+            "unitPrice":150,
+            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
+            "stock":90,
+            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/whisky-chivas-regal-13-anos-botella-750ml.jpg",
+            "campus":1,
             "__v":0,
-            "category":"6332ae837a0f8585e0784c76"
+            "category":"Whisky"
         }
 
     ]
