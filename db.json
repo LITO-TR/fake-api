@@ -1,0 +1,26 @@
+{
+    "products": [   
+        {   
+            "_id":"63329b7ffdea5162925e9149",
+            "name":"Gorra",
+            "unitPrice":60,
+            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+            "stock":80,
+            "img":"urlurlrulrulrulr",
+            "campus":"6332876c1cde739d4af5e7c2",
+            "__v":0,
+            "category":"6332ae837a0f8585e0784c76"
+     },  
+        {   
+            "_id":"63329b7ffdea5162925e9123",
+            "name":"Gorra",
+            "unitPrice":60,
+            "description":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+            "stock":80,
+            "img":"urlurlrulrulrulr",
+            "campus":"6332876c1cde739d4af5e7c2",
+            "__v":0,
+            "category":"6332ae837a0f8585e0784c76"
+        }
+    ]
+}
