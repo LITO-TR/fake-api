@@ -10,134 +10,27 @@
         }
     ],
     "products": [   
-        {   
-            "_id":1,
-            "name":"Cocacola",
-            "unitPrice":10,
-            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
-            "stock":100,
-            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/512x512/2a31ef4a62b54f8a9faa43384572829f.jpg",
-            "campus":1,
-            "__v":0,
-            "category":1
-        },  
-        {   
-            "_id":2,
-            "name":"Inka cola",
-            "unitPrice":10,
-            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
-            "stock":90,
-            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/512x512/gaseosa-inca-kola-1-5lt.jpg",
-            "campus":1,
-            "__v":0,
-            "category":1
-        },
-        {   
-            "_id":3,
-            "name":"Guarana",
-            "unitPrice":10,
-            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
-            "stock":80,
-            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/512x512/364b7e697a754c0fb4bf23c9a287422b.jpg",
-            "campus":1,
-            "__v":0,
-            "category":1
-        },
-        {   
-            "_id":4,
-            "name":"BUCHANANS",
-            "unitPrice":100,
-            "description":"bbbbLorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd resbbbbbbbbbbbbbbbbbbbbbbbbb",
-            "stock":80,
-            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/whisky-buchanans-18-anos-750ml.jpg",
-            "campus":1,
-            "__v":0,
-            "category":2
-        },
-        {   
-            "_id":5,
-            "name":"JHONNIE WALKER",
-            "unitPrice":150,
-            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
-            "stock":50,
-            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/8b46af42542a40a1b9fd815570e3844c.jpg",
-            "campus":1,
-            "__v":0,
-            "category":2
-        },
-        {   
-            "_id":6,
-            "name":"JACK DANIELS",
-            "unitPrice":180,
-            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
-            "stock":60,
-            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/jack-daniels-frank-sinatra-whisky-1000ml.jpg",
-            "campus":1,
-            "__v":0,
-            "category":2
-        },
-        {   
-            "_id":7,
-            "name":"CHIVAS",
-            "unitPrice":150,
-            "description":"Lorem lore as dlore lore slasd lorem dlsaroe dlsaroe dlsaroe a sd res",
-            "stock":90,
-            "img":"https://d18i3wxus81zw3.cloudfront.net/fit-in/256x256/whisky-chivas-regal-13-anos-botella-750ml.jpg",
-            "campus":1,
-            "__v":0,
-            "category":2
-        }
-
-    ],
-    "customers": [
         {
-          "_id": 1,
-          "name": "Rodrigo Perez",
-          "email": "Rodrigo@gmail.com",
-          "phoneNumber": "902 952 757",
-          "photo":"https://i0.wp.com/satelitenorte.com.mx/wp-content/uploads/2020/07/personalidad.jpg?fit=1200%2C930&ssl=1"
+            "_id": "635a56cd11ed6b6d092de173",
+            "name": "Palta",
+            "unitPrice": 9,
+            "description": "Lores sros doerisd, soris jdujstj sdjsjdhsjdstusjkdnsd12 jdusjsdasf",
+            "img": "https://wongfood.vtexassets.com/arquivos/ids/270835-1200-auto?v=636840360270800000&width=1200&height=auto&aspect=true",
+            "campus": "633293b30150136658ff78ab",
+            "category": "6359c736b688f87b9f9987ba",
+            "currentAmount": 20,
+            "initialAmount": 50
         },
         {
-            "_id": 2,
-            "name": "Juan Sanchez",
-            "email": "Juan@gmail.com",
-            "phoneNumber": "915 402 921",
-            "photo":"https://www.labsaenzrenauld.com/wp-content/uploads/2020/10/Perfil-hombre-ba%CC%81sico_738242395.jpg"
-        },
-        {
-            "_id": 3,
-            "name": "Andrea Rojas",
-            "email": "Andre@gmail.com",
-            "phoneNumber": "941 090 741",
-            "photo":"https://media.istockphoto.com/photos/smiling-young-woman-picture-id1008700308?k=20&m=1008700308&s=612x612&w=0&h=O-RuPqoEcqmuryr7bxjfnnQO13yFa9T81oL3RmmvSLk="
-        },
-        {
-            "_id": 4,
-            "name": "Miguel Peña",
-            "email": "Miguel@gmail.com",
-            "phoneNumber": "911 612 417",
-            "photo":"https://media.istockphoto.com/photos/portrait-of-young-smiling-caucasian-man-with-crossed-arms-wearing-picture-id1171169107?k=20&m=1171169107&s=612x612&w=0&h=VkbOnU3zWYCbh3ojzqWFhK7JObxQduGzr4bRxqbgkLU="
-        },
-        {
-            "_id": 5,
-            "name": "Fernando Rubio",
-            "email": "Fernando@gmail.com",
-            "phoneNumber": "991 517 551",
-            "photo":"https://img.freepik.com/foto-gratis/apuesto-hombre-empresario-sonriendo-alegre_176420-17877.jpg?w=2000"
-        },
-        {
-            "_id": 6,
-            "name": "Elmer Torres",
-            "email": "Elmer@gmail.com",
-            "phoneNumber": "915 134 772",
-            "photo":"https://img.freepik.com/foto-gratis/retrato-estudio-hombre-moreno-confianza_1187-5799.jpg?w=2000"
-        },
-        {
-            "_id": 7,
-            "name": "Jean Carrera",
-            "email": "Jean@gmail.com",
-            "phoneNumber": "914 881 421",
-            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDw_1UuRAaOuZuTerLn1PrgjuT1yKTUk2hQ&usqp=CAU"
+            "_id": "635a56cd11ed6b6d092de173",
+            "name": "Mango",
+            "unitPrice": 5,
+            "description": "Lores sros doerisd, soris jdujstj sdjsjdhsjdstusjkdnsd12 jdusjsdasf",
+            "img": "https://wongfood.vtexassets.com/arquivos/ids/270835-1200-auto?v=636840360270800000&width=1200&height=auto&aspect=true",
+            "campus": "633293b30150136658ff78ab",
+            "category": "6359c736b688f87b9f9987ba",
+            "currentAmount": 15,
+            "initialAmount": 30
         }
       ]
 }
