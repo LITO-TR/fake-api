@@ -31,6 +31,17 @@
             "category": "6359c736b688f87b9f9987ba",
             "currentAmount": 15,
             "initialAmount": 30
+        },
+        {
+            "_id": "635a56cd11ed6b6d092de173",
+            "name": "Platano",
+            "unitPrice": 3,
+            "description": "Lores sros doerisd, soris jdujstj sdjsjdhsjdstusjkdnsd12 jdusjsdasf",
+            "img": "https://static1.diariovasco.com/www/multimedia/202106/04/media/cortadas/platano-kUyC-RCIEbjdcaFn9Yc7KKpofzYN-624x385@Diario%20Vasco-DiarioVasco.jpg",
+            "campus": "633293b30150136658ff78ab",
+            "category": "6359c736b688f87b9f9987ba",
+            "currentAmount": 10,
+            "initialAmount": 40
         }
       ]
 }
