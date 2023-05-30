@@ -26,7 +26,7 @@
             "description": "High school Program teacher required late shift",
             "initialDate": "2023/05/1",
             "endDate": "2023/06/10",
-            "salary": "2100";
+            "salary": "2100",
             "maxApplications": 70,
             "numberApplications": 10,
         },
