@@ -1,16 +1,16 @@
 {
-    "offers": [   
+    "offers": [
         {
             "offerId": "1",
             "title": "Math teacher",
-            "description": "High school math teacher required late shif",
+            "description": "High school math teacher required late shift",
             "initialDate": "2023/05/12",
             "endDate": "2023/05/30",
             "salary": "2000",
             "maxApplications": 50,
-            "numberApplications": 25,
+            "numberApplications": 25
         },
-          {
+        {
             "offerId": "2",
             "title": "Science Teacher",
             "description": "High school science teacher required late shift",
@@ -18,9 +18,9 @@
             "endDate": "2023/05/10",
             "salary": "1500",
             "maxApplications": 38,
-            "numberApplications": 16,
+            "numberApplications": 16
         },
-          {
+        {
             "offerId": "3",
             "title": "Program Teacher",
             "description": "High school Program teacher required late shift",
@@ -28,9 +28,9 @@
             "endDate": "2023/06/10",
             "salary": "2100",
             "maxApplications": 70,
-            "numberApplications": 10,
+            "numberApplications": 10
         },
-          {
+        {
             "offerId": "4",
             "title": "Music teacher",
             "description": "High school music teacher required late shift",
@@ -38,7 +38,7 @@
             "endDate": "2023/05/30",
             "salary": "2000",
             "maxApplications": 50,
-            "numberApplications": 25,
+            "numberApplications": 25
         }
-      ]
+    ]
 }
