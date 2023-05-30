@@ -11,7 +11,7 @@
             "numberApplications": 25,
         },
           {
-            "offerId": "2,
+            "offerId": "2",
             "title": "Science Teacher",
             "description": "High school science teacher required late shift",
             "initialDate": "2023/04/15",
@@ -21,7 +21,7 @@
             "numberApplications": 16,
         },
           {
-            "offerId": "3,
+            "offerId": "3",
             "title": "Program Teacher",
             "description": "High school Program teacher required late shift",
             "initialDate": "2023/05/1",
@@ -38,7 +38,7 @@
             "endDate": "2023/05/30",
             "salary: "2000",
             "maxApplications": 50,
-            "numberApplications: 25,
+            "numberApplications": 25,
         },
       ]
 }
