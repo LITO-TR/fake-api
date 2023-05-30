@@ -39,6 +39,6 @@
             "salary": "2000",
             "maxApplications": 50,
             "numberApplications": 25,
-        },
+        }
       ]
 }
