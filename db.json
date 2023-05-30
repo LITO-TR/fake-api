@@ -1,47 +1,44 @@
 {
-    "category": [
-        {   
-            "id": 1,
-            "name": "Gaseosa"         
+    "offers": [   
+        {
+            "offerId": "1",
+            "title": "Math teacher",
+            "description": "High school math teacher required late shif",
+            "initialDate": "2023/05/12",
+            "endDate": "2023/05/30",
+            "salary: "2000",
+            "maxApplications": 50,
+            "numberApplications: 25,
         },
-        {
-            "id":2,
-            "name":"Whisky"
-        }
-    ],
-    "products": [   
-        {
-            "_id": "635a56cd11ed6b6d092de173",
-            "name": "Palta",
-            "unitPrice": 9,
-            "description": "Lores sros doerisd, soris jdujstj sdjsjdhsjdstusjkdnsd12 jdusjsdasf",
-            "img": "https://wongfood.vtexassets.com/arquivos/ids/270835-1200-auto?v=636840360270800000&width=1200&height=auto&aspect=true",
-            "campus": "633293b30150136658ff78ab",
-            "category": "6359c736b688f87b9f9987ba",
-            "currentAmount": 20,
-            "initialAmount": 50
+          {
+            "offerId": "2,
+            "title": "Science Teacher",
+            "description": "High school science teacher required late shift",
+            "initialDate": "2023/04/15",
+            "endDate": "2023/05/10",
+            "salary: "1500",
+            "maxApplications": 38,
+            "numberApplications: 16,
         },
-        {
-            "_id": "635a56cd11ed6b6d092de173",
-            "name": "Mango",
-            "unitPrice": 5,
-            "description": "Lores sros doerisd, soris jdujstj sdjsjdhsjdstusjkdnsd12 jdusjsdasf",
-            "img": "https://wongfood.vtexassets.com/arquivos/ids/270835-1200-auto?v=636840360270800000&width=1200&height=auto&aspect=true",
-            "campus": "633293b30150136658ff78ab",
-            "category": "6359c736b688f87b9f9987ba",
-            "currentAmount": 15,
-            "initialAmount": 30
+          {
+            "offerId": "3,
+            "title": "Program Teacher",
+            "description": "High school Program teacher required late shift",
+            "initialDate": "2023/05/1",
+            "endDate": "2023/06/10",
+            "salary: "2100";
+            "maxApplications": 70,
+            "numberApplications: 10,
         },
-        {
-            "_id": "635a56cd11ed6b6d092de173",
-            "name": "Platano",
-            "unitPrice": 3,
-            "description": "Lores sros doerisd, soris jdujstj sdjsjdhsjdstusjkdnsd12 jdusjsdasf",
-            "img": "https://static1.diariovasco.com/www/multimedia/202106/04/media/cortadas/platano-kUyC-RCIEbjdcaFn9Yc7KKpofzYN-624x385@Diario%20Vasco-DiarioVasco.jpg",
-            "campus": "633293b30150136658ff78ab",
-            "category": "6359c736b688f87b9f9987ba",
-            "currentAmount": 10,
-            "initialAmount": 40
-        }
+          {
+            "offerId": "1",
+            "title": "Music teacher",
+            "description": "High school music teacher required late shift",
+            "initialDate": "2023/04/20";
+            "endDate": "2023/05/30",
+            "salary: "2000",
+            "maxApplications": 50,
+            "numberApplications: 25,
+        },
       ]
 }
