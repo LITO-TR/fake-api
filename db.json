@@ -8,7 +8,7 @@
             "endDate": "2023/05/30",
             "salary: "2000",
             "maxApplications": 50,
-            "numberApplications: 25,
+            "numberApplications": 25,
         },
           {
             "offerId": "2,
@@ -18,7 +18,7 @@
             "endDate": "2023/05/10",
             "salary: "1500",
             "maxApplications": 38,
-            "numberApplications: 16,
+            "numberApplications": 16,
         },
           {
             "offerId": "3,
@@ -28,13 +28,13 @@
             "endDate": "2023/06/10",
             "salary: "2100";
             "maxApplications": 70,
-            "numberApplications: 10,
+            "numberApplications": 10,
         },
           {
             "offerId": "4",
             "title": "Music teacher",
             "description": "High school music teacher required late shift",
-            "initialDate": "2023/04/20";
+            "initialDate": "2023/04/20",
             "endDate": "2023/05/30",
             "salary: "2000",
             "maxApplications": 50,
