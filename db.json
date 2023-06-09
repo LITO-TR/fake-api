@@ -47,8 +47,8 @@
         "recruiterId": 1,
         "title": "Math teacher",
         "description": "High school math teacher required late shift",
-        "initialDate": "2023-02-01",
-        "endDate": "2023-02-08",
+        "initialDate": "2023-05-25",
+        "endDate": "2023-06-25",
         "salary": {
             "mount": 1200,
             "currency": "PEN"
@@ -72,8 +72,8 @@
         "recruiterId": 1,
         "title": "Science Teacher",
         "description": "High school science teacher required late shift",
-        "initialDate": "2023-05-20T04:30:09.438Z",
-        "endDate": "2023-06-09T04:30:09.438Z",
+        "initialDate": "2023-06-01T04:30:09.438Z",
+        "endDate": "2023-06-20T04:30:09.438Z",
         "salary": {
             "mount": 2000,
             "currency": "PEN"
