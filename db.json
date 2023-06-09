@@ -40,5 +40,57 @@
             "maxApplications": 50,
             "numberApplications": 25
         }
+    ],
+    "offers1": [
+    {
+        "id": 0,
+        "recruiterId": 0,
+        "title": "String",
+        "description": "String",
+        "initialDate": "2023-02-08",
+        "endDate": "2023-02-08",
+        "salary": {
+            "mount": 0,
+            "currency": "PEN"
+        },
+        "maxApplication": 0,
+        "numberApplications": 0,
+        "availability": "AVAILABLE",
+        "positionProfile": {
+            "id": 0,
+            "name": "string",
+            "course": {
+                "course": "string"
+            },
+            "modality": "VIRTUAL",
+            "experience": "PRACTICE",
+            "type": "PART_TIME"
+        }
+    },
+    {
+        "id": 0,
+        "recruiterId": 0,
+        "title": "String",
+        "description": "String",
+        "initialDate": "2023-06-09T04:30:09.438Z",
+        "endDate": "2023-06-09T04:30:09.438Z",
+        "salary": {
+            "mount": 0,
+            "currency": "PEN"
+        },
+        "maxApplication": 0,
+        "numberApplications": 0,
+        "availability": "AVAILABLE",
+        "positionProfile": {
+            "id": 0,
+            "name": "string",
+            "course": {
+                "course": "string"
+            },
+            "modality": "VIRTUAL",
+            "experience": "PRACTICE",
+            "type": "PART_TIME"
+        }
+    }
     ]
 }
