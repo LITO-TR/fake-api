@@ -43,21 +43,21 @@
     ],
     "offers1": [
     {
-        "id": 0,
-        "recruiterId": 0,
-        "title": "String",
-        "description": "String",
+        "id": 1,
+        "recruiterId": 1,
+        "title": "Math teacher",
+        "description": "High school math teacher required late shift",
         "initialDate": "2023-02-08",
         "endDate": "2023-02-08",
         "salary": {
-            "mount": 0,
+            "mount": 1200,
             "currency": "PEN"
         },
-        "maxApplication": 0,
+        "maxApplication": 50,
         "numberApplications": 0,
         "availability": "AVAILABLE",
         "positionProfile": {
-            "id": 0,
+            "id": 1,
             "name": "string",
             "course": {
                 "course": "string"
@@ -69,20 +69,20 @@
     },
     {
         "id": 0,
-        "recruiterId": 0,
-        "title": "String",
-        "description": "String",
+        "recruiterId": 1,
+        "title": "Science Teacher",
+        "description": "High school science teacher required late shift",
         "initialDate": "2023-06-09T04:30:09.438Z",
         "endDate": "2023-06-09T04:30:09.438Z",
         "salary": {
-            "mount": 0,
+            "mount": 2000,
             "currency": "PEN"
         },
-        "maxApplication": 0,
+        "maxApplication": 100,
         "numberApplications": 0,
         "availability": "AVAILABLE",
         "positionProfile": {
-            "id": 0,
+            "id": 2,
             "name": "string",
             "course": {
                 "course": "string"
