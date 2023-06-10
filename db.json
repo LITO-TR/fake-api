@@ -1,23 +1,21 @@
 {
     "offers": [
     {
-        "id": 0,
-        "recruiterId": {
-            "recruiterId": 0
-        },
+        "id": 1,
+        "recruiterId": 1
         "title": "String",
         "description": "String",
         "initialDate": "2023-02-08",
         "endDate": "2023-02-08",
         "salary": {
-            "mount": 0,
+            "mount": 10,
             "currency": "PEN"
         },
-        "maxApplication": 0,
-        "numberApplications": 0,
+        "maxApplication": 100,
+        "numberApplications": 2,
         "availability": "AVAILABLE",
         "positionProfile": {
-            "id": 0,
+            "id": 2,
             "name": "string",
             "course": {
                 "course": "string"
@@ -28,3 +26,4 @@
         },
     ]
 }
+
