@@ -1,96 +1,56 @@
 {
     "offers": [
-        {
-            "offerId": "1",
-            "title": "Math teacher",
-            "description": "High school math teacher required late shift",
-            "initialDate": "2023-05-12",
-            "endDate": "2023-05-30",
-            "salary": "2000",
-            "maxApplications": 50,
-            "numberApplications": 25
-        },
-        {
-            "offerId": "2",
-            "title": "Science Teacher",
-            "description": "High school science teacher required late shift",
-            "initialDate": "2023-04-15",
-            "endDate": "2023-05-10",
-            "salary": "1500",
-            "maxApplications": 38,
-            "numberApplications": 16
-        },
-        {
-            "offerId": "3",
-            "title": "Program Teacher",
-            "description": "High school Program teacher required late shift",
-            "initialDate": "2023-05-01",
-            "endDate": "2023-06-10",
-            "salary": "2100",
-            "maxApplications": 70,
-            "numberApplications": 10
-        },
-        {
-            "offerId": "4",
-            "title": "Music teacher",
-            "description": "High school music teacher required late shift",
-            "initialDate": "2023-04-20",
-            "endDate": "2023-05-30",
-            "salary": "2000",
-            "maxApplications": 50,
-            "numberApplications": 25
-        }
-    ],
-    "offers1": [
     {
-        "id": 1,
-        "recruiterId": 1,
-        "title": "Math teacher",
-        "description": "High school math teacher required late shift",
-        "initialDate": "2023-05-25",
-        "endDate": "2023-06-25",
+        "id": 0,
+        "recruiterId": {
+            "recruiterId": 0
+        },
+        "title": "String",
+        "description": "String",
+        "initialDate": "2023-02-08",
+        "endDate": "2023-02-08",
         "salary": {
-            "mount": 1200,
+            "mount": 0,
             "currency": "PEN"
         },
-        "maxApplication": 50,
+        "maxApplication": 0,
         "numberApplications": 0,
         "availability": "AVAILABLE",
         "positionProfile": {
-            "id": 1,
+            "id": 0,
             "name": "string",
             "course": {
                 "course": "string"
             },
             "modality": "VIRTUAL",
-            "experience": "PRACTICE",
             "type": "PART_TIME"
         }
     },
     {
         "id": 0,
-        "recruiterId": 1,
-        "title": "Science Teacher",
-        "description": "High school science teacher required late shift",
-        "initialDate": "2023-06-01T04:30:09.438Z",
-        "endDate": "2023-06-20T04:30:09.438Z",
+        "recruiterId": {
+            "recruiterId": 0
+        },
+        "title": "String",
+        "description": "String",
+        "initialDate": "2023-02-08",
+        "endDate": "2023-02-08",
         "salary": {
-            "mount": 2000,
+            "mount": 0,
             "currency": "PEN"
         },
-        "maxApplication": 100,
+        "maxApplication": 0,
         "numberApplications": 0,
         "availability": "AVAILABLE",
         "positionProfile": {
-            "id": 2,
+            "id": 0,
             "name": "string",
             "course": {
                 "course": "string"
             },
             "modality": "VIRTUAL",
-            "experience": "PRACTICE",
             "type": "PART_TIME"
-        }
-    }
-    ]
+        }
+    }
+]
 }
