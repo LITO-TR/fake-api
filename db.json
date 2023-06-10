@@ -2,7 +2,7 @@
     "offers": [
     {
         "id": 1,
-        "recruiterId": 1
+        "recruiterId": 1,
         "title": "String",
         "description": "String",
         "initialDate": "2023-02-08",
@@ -26,4 +26,3 @@
         }
     ]
 }
-
