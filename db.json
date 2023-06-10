@@ -21,6 +21,7 @@
                 "course": "string"
             },
             "modality": "VIRTUAL",
+            "experience": "PRACTICE",
             "type": "PART_TIME"
              }
         }
