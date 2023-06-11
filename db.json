@@ -8,7 +8,7 @@
         "initialDate": "2023-02-08",
         "endDate": "2023-02-08",
         "salary": {
-            "mount": 10,
+            "mount": 100.20,
             "currency": "PEN"
         },
         "maxApplication": 100,
