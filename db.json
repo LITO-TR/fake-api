@@ -24,6 +24,81 @@
             "experience": "PRACTICE",
             "type": "PART_TIME"
              }
+        },
+         {
+        "id": 1,
+        "recruiterId": 1,
+        "title": "Arse",
+        "description": "String",
+        "initialDate": "2023-02-08",
+        "endDate": "2023-02-08",
+        "salary": {
+            "mount": 100.20,
+            "currency": "PEN"
+        },
+        "maxApplication": 100,
+        "numberApplications": 2,
+        "availability": "AVAILABLE",
+        "positionProfile": {
+            "id": 2,
+            "name": "string",
+            "course": {
+                "course": "string"
+            },
+            "modality": "VIRTUAL",
+            "experience": "PRACTICE",
+            "type": "PART_TIME"
+             }
+        },
+         {
+        "id": 1,
+        "recruiterId": 1,
+        "title": "String",
+        "description": "String",
+        "initialDate": "2023-02-08",
+        "endDate": "2023-02-08",
+        "salary": {
+            "mount": 100.20,
+            "currency": "PEN"
+        },
+        "maxApplication": 100,
+        "numberApplications": 2,
+        "availability": "AVAILABLE",
+        "positionProfile": {
+            "id": 2,
+            "name": "string",
+            "course": {
+                "course": "string"
+            },
+            "modality": "VIRTUAL",
+            "experience": "PRACTICE",
+            "type": "PART_TIME"
+             }
+        },
+         {
+        "id": 1,
+        "recruiterId": 1,
+        "title": "Tresgt",
+        "description": "String",
+        "initialDate": "2023-02-08",
+        "endDate": "2023-02-08",
+        "salary": {
+            "mount": 100.20,
+            "currency": "PEN"
+        },
+        "maxApplication": 100,
+        "numberApplications": 2,
+        "availability": "AVAILABLE",
+        "positionProfile": {
+            "id": 2,
+            "name": "string",
+            "course": {
+                "course": "string"
+            },
+            "modality": "VIRTUAL",
+            "experience": "PRACTICE",
+            "type": "PART_TIME"
+             }
         }
     ]
 }
