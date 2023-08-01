@@ -11,7 +11,7 @@
             "enabled": true
         },
         {
-            "id": 1,
+            "id": 2,
             "nameUser": "Carolina Joss",
             "lastName": "Lara Perez",
             "email": "caro@gmail.com",
@@ -19,18 +19,74 @@
             "imgProfile": "image.com",
             "registerDate": "2023-02-10",
             "enabled": true
+        },
+             {
+            "id": 3,
+            "nameUser": "Andrea",
+            "lastName": "Gomez",
+            "email": "andre@gmail.com",
+            "password": "andre",
+            "imgProfile": "image.com",
+            "registerDate": "2023-02-10",
+            "enabled": true
+        },
+            {
+            "id": 4,
+            "nameUser": "Pablo",
+            "lastName": "Jora",
+            "email": "pablo@gmail.com",
+            "password": "pablo",
+            "imgProfile": "image.com",
+            "registerDate": "2023-02-10",
+            "enabled": true
+        },
+          {
+            "id": 5,
+            "nameUser": "Nilton",
+            "lastName": "Torres",
+            "email": "nilton@gmail.com",
+            "password": "nilton",
+            "imgProfile": "image.com",
+            "registerDate": "2023-02-10",
+            "enabled": true
         }
     ],
     "chats": [
         {
-            "id": 1,
-            "name": "Carolina"
+            "userId": 1,
+            "name": "Carolina",
+            "receptorId": 2
+        },
+         {
+            "userId": 1,
+            "name": "Andrea",
+            "receptorId": 3
+        },
+         {
+            "userId": 1,
+            "name": "Pablo",
+            "receptorId": 4
         },
         {
-            "id": 2,
-            "name": "Juan"
+            "userId": 1,
+            "name": "Nilton",
+            "receptorId": 5,
+        },
+        {
+            "userId": 2,
+            "name": "Juan",
+            "receptorId": 1
+        },
+        {
+            "userId": 2,
+            "name": "Nilton",
+            "receptorId": 5
+        },
+        {
+            "userId": 2,
+            "name": "Andrea",
+            "receptorId": 3
         }
-
     ],
     
     "job-offers": [
