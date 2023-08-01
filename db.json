@@ -12,7 +12,7 @@
         },
         {
             "id": 1,
-            "name": "Carolina Joss",
+            "nameUser": "Carolina Joss",
             "lastName": "Lara Perez",
             "email": "caro@gmail.com",
             "password": "caro",
