@@ -20,7 +20,7 @@
             "registerDate": "2023-02-10",
             "enabled": true
         },
-             {
+        {
             "id": 3,
             "nameUser": "Andrea",
             "lastName": "Gomez",
@@ -30,7 +30,7 @@
             "registerDate": "2023-02-10",
             "enabled": true
         },
-            {
+        {
             "id": 4,
             "nameUser": "Pablo",
             "lastName": "Jora",
@@ -40,7 +40,7 @@
             "registerDate": "2023-02-10",
             "enabled": true
         },
-          {
+        {
             "id": 5,
             "nameUser": "Nilton",
             "lastName": "Torres",
