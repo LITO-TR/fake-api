@@ -1,4 +1,38 @@
 {
+    "users-aria": [
+        {
+            "id": 1,
+            "nameUser": "Juan Carlos",
+            "lastName": "Rodriguez Rojas",
+            "email": "juan@gmail.com",
+            "password": "juan",
+            "imgProfile": "image.com",
+            "registerDate": "2023-01-01",
+            "enabled": true
+        },
+        {
+            "id": 1,
+            "name": "Carolina Joss",
+            "lastName": "Lara Perez",
+            "email": "caro@gmail.com",
+            "password": "caro",
+            "imgProfile": "image.com",
+            "registerDate": "2023-02-10",
+            "enabled": true
+        }
+    ],
+    "chats": [
+        {
+            "id": 1,
+            "name": "Carolina"
+        },
+        {
+            "id": 2,
+            "name": "Juan"
+        }
+
+    ],
+    
     "job-offers": [
     {
         "id": 1,
