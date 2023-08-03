@@ -53,12 +53,20 @@
     ],
     "chats": [
         {
+            "id": 1,
             "userId": 1,
-            "name": "Carolina",
-            "receptorId": 2,
-            "time": "5:30 PM",
-            "text": "Hey, how are  you, how was your day?",
-            "isLiked": false,
+            "receptor": {
+                "id": 2,
+                "nameUser": "Carolina Joss",
+                "lastName": "Lara Perez",
+                "email": "caro@gmail.com",
+                "password": "caro",
+                "imgProfile": "image.com",
+                "registerDate": "2023-02-10",
+                "enabled": true
+        },
+            "date": "2023-02-08"
+            "lastMessage": "Hey, how are  you, how was your day?",
             "unread": false
         },
          {
