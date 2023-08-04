@@ -54,7 +54,7 @@
     "chats": [
         {
             "id": 1,
-            "userId": 1,
+            "userId": 2,
             "receptor": {
                 "id": 2,
                 "nameUser": "Carolina Joss",
@@ -69,60 +69,108 @@
             "lastMessage": "Hey, how are  you, how was your day?",
             "unread": false
         },
-         {
-            "userId": 1,
-            "name": "Andrea",
-            "receptorId": 3,
-             "time": "5:30 PM",
-            "text": "Hey, how are  you, how was your day?",
-            "isLiked": false,
-            "unread": true
-        },
-         {
-            "userId": 1,
-            "name": "Pablo",
-            "receptorId": 4,
-             "time": "5:30 PM",
-            "text": "Hey, how are  you, how was your day?",
-            "isLiked": false,
-            "unread": true
-        },
-        {
-            "userId": 1,
-            "name": "Nilton",
-            "receptorId": 5,
-            "time": "5:30 PM",
-            "text": "Hey, how are  you, how was your day?",
-            "isLiked": false,
-            "unread": true
-        },
-        {
-            "userId": 2,
-            "name": "Juan",
-            "receptorId": 1,
-            "time": "5:30 PM",
-            "text": "Hey, how are  you, how was your day?",
-            "isLiked": false,
-            "unread": true
-        },
-        {
-            "userId": 2,
-            "name": "Nilton",
-            "receptorId": 5,
-            "time": "5:30 PM",
-            "text": "Hey, how are  you, how was your day?",
-            "isLiked": false,
-            "unread": true
-        },
-        {
-            "userId": 2,
-            "name": "Andrea",
-            "receptorId": 3,
-            "time": "5:30 PM",
-            "text": "Hey, how are  you, how was your day?",
-            "isLiked": false,
+            {
+            "id": 2,
+            "userId": 3,
+            "receptor": {
+                "id": 2,
+                "nameUser": "Carolina Joss",
+                "lastName": "Lara Perez",
+                "email": "caro@gmail.com",
+                "password": "caro",
+                "imgProfile": "image.com",
+                "registerDate": "2023-02-10",
+                "enabled": true
+            },
+            "date": "2023-02-08",
+            "lastMessage": "Hey, how are  you, how was your day?",
             "unread": false
-        }
+        },
+            {
+            "id": 3,
+            "userId": 4,
+            "receptor": {
+                "id": 2,
+                "nameUser": "Carolina Joss",
+                "lastName": "Lara Perez",
+                "email": "caro@gmail.com",
+                "password": "caro",
+                "imgProfile": "image.com",
+                "registerDate": "2023-02-10",
+                "enabled": true
+            },
+            "date": "2023-02-08",
+            "lastMessage": "Hey, how are  you, how was your day?",
+            "unread": false
+        },
+           {
+            "id": 4,
+            "userId": 5,
+            "receptor": {
+                "id": 2,
+                "nameUser": "Carolina Joss",
+                "lastName": "Lara Perez",
+                "email": "caro@gmail.com",
+                "password": "caro",
+                "imgProfile": "image.com",
+                "registerDate": "2023-02-10",
+                "enabled": true
+            },
+            "date": "2023-02-08",
+            "lastMessage": "Hey, how are  you, how was your day?",
+            "unread": false
+        },
+          {
+            "id": 5,
+            "userId": 6,
+            "receptor": {
+                "id": 2,
+                "nameUser": "Carolina Joss",
+                "lastName": "Lara Perez",
+                "email": "caro@gmail.com",
+                "password": "caro",
+                "imgProfile": "image.com",
+                "registerDate": "2023-02-10",
+                "enabled": true
+            },
+            "date": "2023-02-08",
+            "lastMessage": "Hey, how are  you, how was your day?",
+            "unread": false
+        },
+           {
+            "id": 6,
+            "userId": 7,
+            "receptor": {
+                "id": 2,
+                "nameUser": "Carolina Joss",
+                "lastName": "Lara Perez",
+                "email": "caro@gmail.com",
+                "password": "caro",
+                "imgProfile": "image.com",
+                "registerDate": "2023-02-10",
+                "enabled": true
+            },
+            "date": "2023-02-08",
+            "lastMessage": "Hey, how are  you, how was your day?",
+            "unread": false
+        },
+           {
+            "id": 7,
+            "userId": 8,
+            "receptor": {
+                "id": 2,
+                "nameUser": "Carolina Joss",
+                "lastName": "Lara Perez",
+                "email": "caro@gmail.com",
+                "password": "caro",
+                "imgProfile": "image.com",
+                "registerDate": "2023-02-10",
+                "enabled": true
+            },
+            "date": "2023-02-08",
+            "lastMessage": "Hey, how are  you, how was your day?",
+            "unread": false
+        },
     ],
     
     "job-offers": [
