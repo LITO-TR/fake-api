@@ -1,278 +1,277 @@
 {
-    "users-aria": [
-        {
-            "id": 1,
-            "nameUser": "Juan Carlos",
-            "lastName": "Rodriguez Rojas",
-            "email": "juan@gmail.com",
-            "password": "juan",
-            "imgProfile": "image.com",
-            "registerDate": "2023-01-01",
-            "enabled": true
-        },
-        {
-            "id": 2,
-            "nameUser": "Carolina Joss",
-            "lastName": "Lara Perez",
-            "email": "caro@gmail.com",
-            "password": "caro",
-            "imgProfile": "image.com",
-            "registerDate": "2023-02-10",
-            "enabled": true
-        },
-        {
-            "id": 3,
-            "nameUser": "Andrea",
-            "lastName": "Gomez",
-            "email": "andre@gmail.com",
-            "password": "andre",
-            "imgProfile": "image.com",
-            "registerDate": "2023-02-10",
-            "enabled": true
-        },
-        {
-            "id": 4,
-            "nameUser": "Pablo",
-            "lastName": "Jora",
-            "email": "pablo@gmail.com",
-            "password": "pablo",
-            "imgProfile": "image.com",
-            "registerDate": "2023-02-10",
-            "enabled": true
-        },
-        {
-            "id": 5,
-            "nameUser": "Nilton",
-            "lastName": "Torres",
-            "email": "nilton@gmail.com",
-            "password": "nilton",
-            "imgProfile": "image.com",
-            "registerDate": "2023-02-10",
-            "enabled": true
-        }
-    ],
-    "chats": [
-        {
-            "id": 1,
-            "userId": 2,
-            "receptor": {
-                "id": 2,
-                "nameUser": "Carolina Joss",
-                "lastName": "Lara Perez",
-                "email": "caro@gmail.com",
-                "password": "caro",
-                "imgProfile": "image.com",
-                "registerDate": "2023-02-10",
-                "enabled": true
+   "users-aria":[
+      {
+         "id":1,
+         "nameUser":"Juan Carlos",
+         "lastName":"Rodriguez Rojas",
+         "email":"juan@gmail.com",
+         "password":"juan",
+         "imgProfile":"image.com",
+         "registerDate":"2023-01-01",
+         "enabled":true
+      },
+      {
+         "id":2,
+         "nameUser":"Carolina Joss",
+         "lastName":"Lara Perez",
+         "email":"caro@gmail.com",
+         "password":"caro",
+         "imgProfile":"image.com",
+         "registerDate":"2023-02-10",
+         "enabled":true
+      },
+      {
+         "id":3,
+         "nameUser":"Andrea",
+         "lastName":"Gomez",
+         "email":"andre@gmail.com",
+         "password":"andre",
+         "imgProfile":"image.com",
+         "registerDate":"2023-02-10",
+         "enabled":true
+      },
+      {
+         "id":4,
+         "nameUser":"Pablo",
+         "lastName":"Jora",
+         "email":"pablo@gmail.com",
+         "password":"pablo",
+         "imgProfile":"image.com",
+         "registerDate":"2023-02-10",
+         "enabled":true
+      },
+      {
+         "id":5,
+         "nameUser":"Nilton",
+         "lastName":"Torres",
+         "email":"nilton@gmail.com",
+         "password":"nilton",
+         "imgProfile":"image.com",
+         "registerDate":"2023-02-10",
+         "enabled":true
+      }
+   ],
+   "chats":[
+      {
+         "id":1,
+         "userId":2,
+         "receptor":{
+            "id":2,
+            "nameUser":"Carolina Joss",
+            "lastName":"Lara Perez",
+            "email":"caro@gmail.com",
+            "password":"caro",
+            "imgProfile":"image.com",
+            "registerDate":"2023-02-10",
+            "enabled":true
+         },
+         "date":"2023-02-08",
+         "lastMessage":"Hey, how are  you, how was your day?",
+         "unread":false
+      },
+      {
+         "id":2,
+         "userId":3,
+         "receptor":{
+            "id":2,
+            "nameUser":"Carolina Joss",
+            "lastName":"Lara Perez",
+            "email":"caro@gmail.com",
+            "password":"caro",
+            "imgProfile":"image.com",
+            "registerDate":"2023-02-10",
+            "enabled":true
+         },
+         "date":"2023-02-08",
+         "lastMessage":"Hey, how are  you, how was your day?",
+         "unread":false
+      },
+      {
+         "id":3,
+         "userId":4,
+         "receptor":{
+            "id":2,
+            "nameUser":"Carolina Joss",
+            "lastName":"Lara Perez",
+            "email":"caro@gmail.com",
+            "password":"caro",
+            "imgProfile":"image.com",
+            "registerDate":"2023-02-10",
+            "enabled":true
+         },
+         "date":"2023-02-08",
+         "lastMessage":"Hey, how are  you, how was your day?",
+         "unread":false
+      },
+      {
+         "id":4,
+         "userId":5,
+         "receptor":{
+            "id":2,
+            "nameUser":"Carolina Joss",
+            "lastName":"Lara Perez",
+            "email":"caro@gmail.com",
+            "password":"caro",
+            "imgProfile":"image.com",
+            "registerDate":"2023-02-10",
+            "enabled":true
+         },
+         "date":"2023-02-08",
+         "lastMessage":"Hey, how are  you, how was your day?",
+         "unread":false
+      },
+      {
+         "id":5,
+         "userId":6,
+         "receptor":{
+            "id":2,
+            "nameUser":"Carolina Joss",
+            "lastName":"Lara Perez",
+            "email":"caro@gmail.com",
+            "password":"caro",
+            "imgProfile":"image.com",
+            "registerDate":"2023-02-10",
+            "enabled":true
+         },
+         "date":"2023-02-08",
+         "lastMessage":"Hey, how are  you, how was your day?",
+         "unread":false
+      },
+      {
+         "id":6,
+         "userId":7,
+         "receptor":{
+            "id":2,
+            "nameUser":"Carolina Joss",
+            "lastName":"Lara Perez",
+            "email":"caro@gmail.com",
+            "password":"caro",
+            "imgProfile":"image.com",
+            "registerDate":"2023-02-10",
+            "enabled":true
+         },
+         "date":"2023-02-08",
+         "lastMessage":"Hey, how are  you, how was your day?",
+         "unread":false
+      },
+      {
+         "id":7,
+         "userId":8,
+         "receptor":{
+            "id":2,
+            "nameUser":"Carolina Joss",
+            "lastName":"Lara Perez",
+            "email":"caro@gmail.com",
+            "password":"caro",
+            "imgProfile":"image.com",
+            "registerDate":"2023-02-10",
+            "enabled":true
+         },
+         "date":"2023-02-08",
+         "lastMessage":"Hey, how are  you, how was your day?",
+         "unread":false
+      }
+   ],
+   "job-offers":[
+      {
+         "id":1,
+         "recruiterId":1,
+         "title":"String",
+         "description":"String",
+         "initialDate":"2023-02-08",
+         "endDate":"2023-02-08",
+         "salary":{
+            "mount":100.20,
+            "currency":"PEN"
+         },
+         "maxApplication":100,
+         "numberApplications":2,
+         "availability":"AVAILABLE",
+         "positionProfile":{
+            "id":2,
+            "name":"string",
+            "course":{
+               "course":"string"
             },
-            "date": "2023-02-08",
-            "lastMessage": "Hey, how are  you, how was your day?",
-            "unread": false
-        },
-            {
-            "id": 2,
-            "userId": 3,
-            "receptor": {
-                "id": 2,
-                "nameUser": "Carolina Joss",
-                "lastName": "Lara Perez",
-                "email": "caro@gmail.com",
-                "password": "caro",
-                "imgProfile": "image.com",
-                "registerDate": "2023-02-10",
-                "enabled": true
+            "modality":"VIRTUAL",
+            "experience":"PRACTICE",
+            "type":"PART_TIME"
+         }
+      },
+      {
+         "id":1,
+         "recruiterId":1,
+         "title":"Arse",
+         "description":"String",
+         "initialDate":"2023-02-08",
+         "endDate":"2023-02-08",
+         "salary":{
+            "mount":100.20,
+            "currency":"PEN"
+         },
+         "maxApplication":100,
+         "numberApplications":2,
+         "availability":"AVAILABLE",
+         "positionProfile":{
+            "id":2,
+            "name":"string",
+            "course":{
+               "course":"string"
             },
-            "date": "2023-02-08",
-            "lastMessage": "Hey, how are  you, how was your day?",
-            "unread": false
-        },
-            {
-            "id": 3,
-            "userId": 4,
-            "receptor": {
-                "id": 2,
-                "nameUser": "Carolina Joss",
-                "lastName": "Lara Perez",
-                "email": "caro@gmail.com",
-                "password": "caro",
-                "imgProfile": "image.com",
-                "registerDate": "2023-02-10",
-                "enabled": true
+            "modality":"VIRTUAL",
+            "experience":"PRACTICE",
+            "type":"PART_TIME"
+         }
+      },
+      {
+         "id":1,
+         "recruiterId":1,
+         "title":"String",
+         "description":"String",
+         "initialDate":"2023-02-08",
+         "endDate":"2023-02-08",
+         "salary":{
+            "mount":100.20,
+            "currency":"PEN"
+         },
+         "maxApplication":100,
+         "numberApplications":2,
+         "availability":"AVAILABLE",
+         "positionProfile":{
+            "id":2,
+            "name":"string",
+            "course":{
+               "course":"string"
             },
-            "date": "2023-02-08",
-            "lastMessage": "Hey, how are  you, how was your day?",
-            "unread": false
-        },
-           {
-            "id": 4,
-            "userId": 5,
-            "receptor": {
-                "id": 2,
-                "nameUser": "Carolina Joss",
-                "lastName": "Lara Perez",
-                "email": "caro@gmail.com",
-                "password": "caro",
-                "imgProfile": "image.com",
-                "registerDate": "2023-02-10",
-                "enabled": true
+            "modality":"VIRTUAL",
+            "experience":"PRACTICE",
+            "type":"PART_TIME"
+         }
+      },
+      {
+         "id":1,
+         "recruiterId":1,
+         "title":"Tresgt",
+         "description":"String",
+         "initialDate":"2023-02-08",
+         "endDate":"2023-02-08",
+         "salary":{
+            "mount":100.20,
+            "currency":"PEN"
+         },
+         "maxApplication":100,
+         "numberApplications":2,
+         "availability":"AVAILABLE",
+         "positionProfile":{
+            "id":2,
+            "name":"string",
+            "course":{
+               "course":"string"
             },
-            "date": "2023-02-08",
-            "lastMessage": "Hey, how are  you, how was your day?",
-            "unread": false
-        },
-          {
-            "id": 5,
-            "userId": 6,
-            "receptor": {
-                "id": 2,
-                "nameUser": "Carolina Joss",
-                "lastName": "Lara Perez",
-                "email": "caro@gmail.com",
-                "password": "caro",
-                "imgProfile": "image.com",
-                "registerDate": "2023-02-10",
-                "enabled": true
-            },
-            "date": "2023-02-08",
-            "lastMessage": "Hey, how are  you, how was your day?",
-            "unread": false
-        },
-           {
-            "id": 6,
-            "userId": 7,
-            "receptor": {
-                "id": 2,
-                "nameUser": "Carolina Joss",
-                "lastName": "Lara Perez",
-                "email": "caro@gmail.com",
-                "password": "caro",
-                "imgProfile": "image.com",
-                "registerDate": "2023-02-10",
-                "enabled": true
-            },
-            "date": "2023-02-08",
-            "lastMessage": "Hey, how are  you, how was your day?",
-            "unread": false
-        },
-           {
-            "id": 7,
-            "userId": 8,
-            "receptor": {
-                "id": 2,
-                "nameUser": "Carolina Joss",
-                "lastName": "Lara Perez",
-                "email": "caro@gmail.com",
-                "password": "caro",
-                "imgProfile": "image.com",
-                "registerDate": "2023-02-10",
-                "enabled": true
-            },
-            "date": "2023-02-08",
-            "lastMessage": "Hey, how are  you, how was your day?",
-            "unread": false
-        }
-    ],
-    
-    "job-offers": [
-    {
-        "id": 1,
-        "recruiterId": 1,
-        "title": "String",
-        "description": "String",
-        "initialDate": "2023-02-08",
-        "endDate": "2023-02-08",
-        "salary": {
-            "mount": 100.20,
-            "currency": "PEN"
-        },
-        "maxApplication": 100,
-        "numberApplications": 2,
-        "availability": "AVAILABLE",
-        "positionProfile": {
-            "id": 2,
-            "name": "string",
-            "course": {
-                "course": "string"
-            },
-            "modality": "VIRTUAL",
-            "experience": "PRACTICE",
-            "type": "PART_TIME"
-             }
-        },
-         {
-        "id": 1,
-        "recruiterId": 1,
-        "title": "Arse",
-        "description": "String",
-        "initialDate": "2023-02-08",
-        "endDate": "2023-02-08",
-        "salary": {
-            "mount": 100.20,
-            "currency": "PEN"
-        },
-        "maxApplication": 100,
-        "numberApplications": 2,
-        "availability": "AVAILABLE",
-        "positionProfile": {
-            "id": 2,
-            "name": "string",
-            "course": {
-                "course": "string"
-            },
-            "modality": "VIRTUAL",
-            "experience": "PRACTICE",
-            "type": "PART_TIME"
-             }
-        },
-         {
-        "id": 1,
-        "recruiterId": 1,
-        "title": "String",
-        "description": "String",
-        "initialDate": "2023-02-08",
-        "endDate": "2023-02-08",
-        "salary": {
-            "mount": 100.20,
-            "currency": "PEN"
-        },
-        "maxApplication": 100,
-        "numberApplications": 2,
-        "availability": "AVAILABLE",
-        "positionProfile": {
-            "id": 2,
-            "name": "string",
-            "course": {
-                "course": "string"
-            },
-            "modality": "VIRTUAL",
-            "experience": "PRACTICE",
-            "type": "PART_TIME"
-             }
-        },
-         {
-        "id": 1,
-        "recruiterId": 1,
-        "title": "Tresgt",
-        "description": "String",
-        "initialDate": "2023-02-08",
-        "endDate": "2023-02-08",
-        "salary": {
-            "mount": 100.20,
-            "currency": "PEN"
-        },
-        "maxApplication": 100,
-        "numberApplications": 2,
-        "availability": "AVAILABLE",
-        "positionProfile": {
-            "id": 2,
-            "name": "string",
-            "course": {
-                "course": "string"
-            },
-            "modality": "VIRTUAL",
-            "experience": "PRACTICE",
-            "type": "PART_TIME"
-             }
-        }
-    ]
+            "modality":"VIRTUAL",
+            "experience":"PRACTICE",
+            "type":"PART_TIME"
+         }
+      }
+   ]
 }
